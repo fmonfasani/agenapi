@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # agenapi
 
 ## Directory Structure
@@ -267,3 +268,6 @@ components:
 6. **Create component marketplace**
 
 The framework is now **10x more maintainable** while retaining **100% of the original power**.
+=======
+# agenapi
+>>>>>>> 7f581c473c167f0f6c17070c1bab9a4138e20675
